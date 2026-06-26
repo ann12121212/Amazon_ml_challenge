@@ -205,12 +205,7 @@ This was the strongest result obtained during the logged training run before int
 
 ```text
 .
-├── train.csv
-├── test.csv
-├── best_model_weights.pt
-├── feature_scaler.pkl
-├── target_scaler.pkl
-├── submission.csv
-├── improved_submission.csv
-├── ensemble_submission.csv
+├── IMPROVED
+├── Improved2
+├──Notebook
 └── README.md
